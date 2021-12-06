@@ -1,0 +1,19 @@
+# Hidden Files
+.*
+!.gitignore
+!.gcloudignore
+
+# Python
+*.pyc
+
+# Temporary Items
+*.tmp
+*.tmp.*
+
+# Virtual Environments
+venv*/
+
+# Configuration Override
+*.override.*
+
+Data/Credentials/

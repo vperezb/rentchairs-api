@@ -1,0 +1,6 @@
+flask==1.1.1
+Werkzeug==0.16.1
+pandas
+Flask-Cors
+flask-restplus
+requests
